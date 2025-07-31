@@ -1,1 +1,1 @@
-# Escape-the-Fallen-Cubes-ComputerGraphicsProject
+**Escape The Fallen Cubes** is a 2D arcade-style survival game developed in C++ using OpenGL and GLUT. The player controls a red block that must dodge falling blue cubes, with the game's difficulty increasing over time as obstacles speed up. Featuring real-time rendering, score and timer tracking, and an interactive menu system, the project showcases core game development skills in graphics programming, input handling, and collision detection.
